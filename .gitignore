@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+~$*.docx
+/generate_report.py
+/report_assets/
+/Лабораторная работа № 1 NumPy.docx
+/render*/
